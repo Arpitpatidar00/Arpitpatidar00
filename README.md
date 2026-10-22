@@ -105,11 +105,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitpatidar00/Arpitpatidar00/output/snake-dark.svg">
-  <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Arpitpatidar00/Arpitpatidar00/output/snake-light.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arpitpatidar00&bg_color=0d1117&color=8b949e&line=f5a524&point=22d3ee&area=true&area_color=f5a524&hide_border=true&radius=12&custom_title=Contributions%20%C2%B7%20last%2031%20days">
   <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitpatidar00&bg_color=ffffff&color=59636e&line=d97706&point=0891b2&area=true&area_color=d97706&hide_border=true&radius=12&custom_title=Contributions%20%C2%B7%20last%2031%20days">
 </picture>
