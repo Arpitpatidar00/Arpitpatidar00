@@ -2,11 +2,12 @@
 
 <p align="center">
   <b>Full-Stack & Web3 Engineer</b> · TypeScript · Next.js · Node.js / NestJS · Rust<br/>
-  I build payment systems, developer tools and the infrastructure underneath them.
+  I build payment systems, developer tools and the infrastructure underneath them.<br/>
+  <sub>15+ live projects shipped since 2023 · Indore, Madhya Pradesh 🇮🇳</sub>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-v1-six-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-v1-arpit-patidars-projects-8854eb72.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/arpit-patidar-05b413232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/devArpit0"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:arpitpatidarappi01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -18,7 +19,14 @@
 
 **Software Engineer, Full-Stack @ Metaverse Ventures** (remote) — building a cross-chain payments treasury platform: swap, bridge, yield, pay-in / pay-out and stablecoin rails behind a single quote-and-settlement layer, with Privy embedded wallets and multi-chain virtual accounts.
 
-Previously at **Amenses Innovation** — designed a Turborepo monorepo with shared types and service packages, built layered Node.js + TypeScript backends, and cut query latency ~30% with MongoDB indexing, aggregation pipelines and TanStack Query caching.
+### Path
+
+| When | Role | Highlights |
+| :-- | :-- | :-- |
+| **Aug 2025 – now** | Software Engineer, Full-Stack · **Metaverse Ventures** (remote) | Cross-chain treasury: swap / bridge / yield execution, Privy embedded wallets, multi-chain virtual accounts with automated fund routing |
+| **Jul 2024 – Aug 2025** | Associate Software Developer · **Amenses Innovation** | Turborepo monorepo with shared type & service packages · layered Node.js + TypeScript backends · ~30% lower query latency via MongoDB indexes, aggregation pipelines and TanStack Query caching |
+| **Mar 2024 – Jul 2024** | Software Developer Intern · Amenses Innovation | Shipped 2+ MERN products · ran sprint planning and code reviews · automated 2K+ monthly auth emails (NodeMailer + SendGrid) |
+| **Aug 2023 – Nov 2023** | Software Developer Trainee · Amenses Innovation | First production codebase |
 
 ### Selected work
 
@@ -39,8 +47,17 @@ Previously at **Amenses Innovation** — designed a Turborepo monorepo with shar
 ### Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,react,nextjs,nodejs,nestjs,express,tailwind,mongodb,postgres,redis,supabase,prisma,docker,aws,cloudflare,vercel,git,githubactions&perline=10" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,react,nextjs,redux,materialui,tailwind,nodejs,nestjs,express,graphql,mongodb,supabase,redis,prisma,aws,cloudflare,vercel,githubactions&perline=10" alt="Tech stack"/>
 </p>
+
+| | |
+| :-- | :-- |
+| **Frontend** | React · Next.js · Redux · TanStack Query · MUI · shadcn/ui · Tailwind |
+| **Backend** | Node.js · NestJS · Express · Fastify · REST · GraphQL · WebSocket · SSE |
+| **Data** | MongoDB · Supabase · Redis · Prisma |
+| **Web3 & Payments** | Privy embedded wallets · cross-chain swap / bridge / yield · stablecoins · Stripe · Razorpay |
+| **Infra & Tooling** | AWS EC2 / S3 · Cloudflare Workers · Vercel · GitHub Actions · Turborepo · Nx |
+| **Auth** | JWT · OAuth · session auth |
 
 **How I work:** typed boundaries end to end · tests on the logic that matters · small, reviewable PRs · CI as the source of truth · observability before optimisation.
 
