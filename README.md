@@ -105,8 +105,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arpitpatidar00&bg_color=0d1117&color=8b949e&line=f5a524&point=22d3ee&area=true&area_color=f5a524&hide_border=true&radius=12&custom_title=Contributions%20%C2%B7%20last%2031%20days">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitpatidar00&bg_color=ffffff&color=59636e&line=d97706&point=0891b2&area=true&area_color=d97706&hide_border=true&radius=12&custom_title=Contributions%20%C2%B7%20last%2031%20days">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arpitpatidar00&hide_border=true&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&background=161b22&stroke=30363d&ring=f5a524&fire=f5a524&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=f5a524&sideLabels=8b949e&dates=8b949e">
+  <img width="100%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Arpitpatidar00&hide_border=true&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&background=f6f8fa&stroke=d0d7de&ring=d97706&fire=d97706&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=d97706&sideLabels=59636e&dates=59636e">
 </picture>
 
 <p align="center"><sub>🏆 Winner — Code Hunter 2024 &nbsp;·&nbsp; 🥉 3rd place — Web Dev Hackathon 2024 &nbsp;·&nbsp; 🎓 B.Tech CSE, Indore</sub></p>
