@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="Shipped in production">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#d97706"/><stop offset="0.4" stop-color="#0891b2" stop-opacity="0.5"/><stop offset="1" stop-color="#d0d7de" stop-opacity="0"/></linearGradient></defs>
+  <text x="0" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#d97706">05 — LIVE</text>
+  <text x="0" y="50" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2328">Shipped in production</text>
+  <rect x="0" y="61" width="1000" height="2" fill="url(#l)"/>
+</svg>

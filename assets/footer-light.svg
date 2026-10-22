@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Thanks for visiting">
+  <defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#d97706"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
+  <path d="M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 V150 H0 Z" fill="url(#w)" opacity="0.22"><animate attributeName="d" values="M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 V150 H0 Z;M0,80 C200,120 400,40 600,80 C800,120 1000,40 1200,80 V150 H0 Z;M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 V150 H0 Z" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M0,80 C200,120 400,40 600,80 C800,120 1000,40 1200,80 V150 H0 Z" fill="url(#w)" opacity="0.35"><animate attributeName="d" values="M0,80 C200,120 400,40 600,80 C800,120 1000,40 1200,80 V150 H0 Z;M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 V150 H0 Z;M0,80 C200,120 400,40 600,80 C800,120 1000,40 1200,80 V150 H0 Z" dur="7s" repeatCount="indefinite"/></path>
+  <text x="600.0" y="122" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="2" fill="#1f2328">THANKS FOR STOPPING BY — LET'S BUILD SOMETHING</text>
+</svg>

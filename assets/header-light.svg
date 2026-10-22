@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Arpit Patidar, Full-Stack and Web3 Engineer">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#e6e9ec"/></pattern>
+    <radialGradient id="g1"><stop offset="0" stop-color="#d97706" stop-opacity="0.28"/><stop offset="1" stop-color="#d97706" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#0891b2" stop-opacity="0.22400000000000003"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#1f2328"/><stop offset="0.55" stop-color="#1f2328"/><stop offset="1" stop-color="#d97706"/></linearGradient>
+    <filter id="soft" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="338" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#ffffff"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <circle cx="980" cy="60" r="260" fill="url(#g1)"><animate attributeName="cx" values="980;900;980" dur="14s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="330" r="240" fill="url(#g2)"><animate attributeName="cy" values="330;280;330" dur="11s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="22" fill="none" stroke="#d0d7de"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <circle cx="70" cy="76" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="84" y="81" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="2" fill="#59636e">OPEN TO INTERESTING PROBLEMS · INDORE, INDIA</text>
+    <text x="62" y="160" font-size="68" font-weight="800" letter-spacing="-2" fill="url(#name)">Arpit Patidar</text>
+    <text x="64" y="208" font-size="27" font-weight="500" fill="#1f2328" opacity="0.85">Full-Stack &amp; Web3 Engineer</text>
+    <text x="64" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#59636e">&gt;</text>
+    
+    <clipPath id="c0"><rect x="92" y="238" height="34" width="413">
+      <animate attributeName="width" values="0;0;413;413;0;0" keyTimes="0.0000;0.0000;0.1000;0.2833;0.3233;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="92" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#d97706" clip-path="url(#c0)">building cross-chain payment rails</text>
+    <rect x="505" y="243" width="11" height="24" fill="#d97706" opacity="1">
+      <animate attributeName="x" values="92;92;505.36;505.36;92;92" keyTimes="0.0000;0.0000;0.1000;0.2833;0.3233;1.0000" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;1;1;0;0" keyTimes="0.0000;0.0000;0.1000;0.2833;0.3233;1.0000" dur="12s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+    <clipPath id="c1"><rect x="92" y="238" height="34" width="0">
+      <animate attributeName="width" values="0;0;401;401;0;0" keyTimes="0.0000;0.3333;0.4333;0.6167;0.6567;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="92" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#d97706" clip-path="url(#c1)">shipping native dev tools in Rust</text>
+    <rect x="493" y="243" width="11" height="24" fill="#d97706" opacity="0">
+      <animate attributeName="x" values="92;92;493.32;493.32;92;92" keyTimes="0.0000;0.3333;0.4333;0.6167;0.6567;1.0000" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.3333;0.4333;0.6167;0.6567;1.0000" dur="12s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+    <clipPath id="c2"><rect x="92" y="238" height="34" width="0">
+      <animate attributeName="width" values="0;0;449;449;0;0" keyTimes="0.0000;0.6667;0.7667;0.9500;0.9900;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="92" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#d97706" clip-path="url(#c2)">turning ideas into production systems</text>
+    <rect x="541" y="243" width="11" height="24" fill="#d97706" opacity="0">
+      <animate attributeName="x" values="92;92;541.48;541.48;92;92" keyTimes="0.0000;0.6667;0.7667;0.9500;0.9900;1.0000" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.6667;0.7667;0.9500;0.9900;1.0000" dur="12s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+    <text x="64" y="306" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e">TypeScript · Next.js · Node / NestJS · Rust · Web3</text>
+  </g>
+
+  <path id="p0" d="M820,78 C892.5,78 892.5,170 965,170" fill="none" stroke="#d0d7de" stroke-width="1.5" stroke-dasharray="4 5"/><path id="p1" d="M1110,78 C1037.5,78 1037.5,170 965,170" fill="none" stroke="#d0d7de" stroke-width="1.5" stroke-dasharray="4 5"/><path id="p2" d="M820,262 C892.5,262 892.5,170 965,170" fill="none" stroke="#d0d7de" stroke-width="1.5" stroke-dasharray="4 5"/><path id="p3" d="M1110,262 C1037.5,262 1037.5,170 965,170" fill="none" stroke="#d0d7de" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <circle r="4.5" fill="#d97706" filter="url(#soft)" opacity="0">
+      <set attributeName="opacity" to="1" begin="0.0s"/>
+      <animateMotion dur="2.60s" repeatCount="indefinite" begin="0.0s"><mpath href="#p0"/></animateMotion></circle><circle r="4.5" fill="#0891b2" filter="url(#soft)" opacity="0">
+      <set attributeName="opacity" to="1" begin="0.7s"/>
+      <animateMotion dur="3.05s" repeatCount="indefinite" begin="0.7s" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion></circle><circle r="4.5" fill="#7c3aed" filter="url(#soft)" opacity="0">
+      <set attributeName="opacity" to="1" begin="1.4s"/>
+      <animateMotion dur="3.50s" repeatCount="indefinite" begin="1.4s"><mpath href="#p2"/></animateMotion></circle><circle r="4.5" fill="#0891b2" filter="url(#soft)" opacity="0">
+      <set attributeName="opacity" to="1" begin="2.1s"/>
+      <animateMotion dur="3.95s" repeatCount="indefinite" begin="2.1s" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#p3"/></animateMotion></circle>
+  <circle cx="965" cy="170" r="46" fill="none" stroke="#d97706" stroke-opacity="0.35">
+    <animate attributeName="r" values="40;58;40" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="3s" repeatCount="indefinite"/></circle>
+  <rect x="913" y="144" width="104" height="52" rx="14" fill="#f6f8fa" stroke="#d97706"/>
+  <text x="965" y="168" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#d97706">TREASURY</text>
+  <text x="965" y="185" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#59636e">quote · settle</text>
+  <g><rect x="784" y="60" width="72" height="36" rx="10" fill="#f6f8fa" stroke="#d97706" stroke-opacity="0.7"/>
+      <text x="820" y="83" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#1f2328">ETH</text></g><g><rect x="1074" y="60" width="72" height="36" rx="10" fill="#f6f8fa" stroke="#0891b2" stroke-opacity="0.7"/>
+      <text x="1110" y="83" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#1f2328">BASE</text></g><g><rect x="784" y="244" width="72" height="36" rx="10" fill="#f6f8fa" stroke="#7c3aed" stroke-opacity="0.7"/>
+      <text x="820" y="267" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#1f2328">ARB</text></g><g><rect x="1074" y="244" width="72" height="36" rx="10" fill="#f6f8fa" stroke="#0891b2" stroke-opacity="0.7"/>
+      <text x="1110" y="267" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#1f2328">SOL</text></g>
+</svg>
